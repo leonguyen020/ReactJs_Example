@@ -6,6 +6,7 @@ import App from './containers/App'
 import reducer from './reducers'
 import 'todomvc-app-css/index.css'
 
+// Testing with github
 const store = createStore(reducer)
 
 render(
